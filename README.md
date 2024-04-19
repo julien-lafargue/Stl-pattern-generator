@@ -33,5 +33,6 @@ Spécifiez les paramètres de la grille hexagonale dans l'interface utilisateur.
 Cliquez sur le bouton "Save STL" pour générer la grille.
 Une fois la génération terminée, un bouton "Rename File" apparaîtra. Cliquez dessus pour renommer le fichier STL avec les paramètres utilisés.
 
+![screen](https://github.com/julien-lafargue/honeycomb-stl-pattern/assets/164173103/0a6e8022-f2aa-4cfe-ab18-97954c4a9ded)
 
 
