@@ -35,6 +35,3 @@ Une fois la génération terminée, un bouton "Rename File" apparaîtra. Cliquez
 
 
 
-Licence
-Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus d'informations.
-
